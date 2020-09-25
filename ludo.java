@@ -1,4 +1,5 @@
 public class ludo{
 public static void main(String[] args){
-System.out.println("Welcome to Snake and Ladder Game");
+int pos=0;
+System.out.println("Welcome to Snake and Ladder Game\nYour initial position is "+pos);
 }}
